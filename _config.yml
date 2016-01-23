@@ -1,29 +1,41 @@
-name: The Toxic Avenger Christmas Chaos
-favicon: null
-layout_spectrum: 0.17262519034557045
-typography_spectrum: 0.4345509554259479
 title: The Toxic Avenger Christmas Chaos
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.5993758400436491
+  lightness: 0.007152586476877332
+  brandStrength: 0.3709677
+  brandColors:
+    - '#000000'
+    - '#FCFCF2'
+    - '#6EA3E0'
+    - '#A38765'
+    - '#5C4A3A'
+  rhythmicContrast: 0.2029242282733321
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: The Toxic Avenger Christmas Chaos
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#e62002'
-    - '#08386c'
-    - '#dbfb1e'
-    - '#69a10e'
-    - '#fef5e6'
-  brandStrength: 0.3938105213455856
-  lightness: 0.007152586476877332
-  saturation: 0.5993758400436491
-  rhythmicContrast: 0.20292422827333212
-purpose: []
+typography_spectrum: 0.8620071
+layout_spectrum: 0.9086022
