@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: The Toxic Avenger Christmas Chaos
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.8620071
-layout_spectrum: 0.9086022
+layout_spectrum: 0
